@@ -237,7 +237,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://i.ibb.co/ZS8SLXj/cinemaxlogo.png" group-title="Movies",Cinemax ID
+#EXTINF:0 tvg-id="CineMax.id" tvg-name="" tvg-logo="https://i.ibb.co/ZS8SLXj/cinemaxlogo.png" group-title="Movies",Cinemax ID
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
