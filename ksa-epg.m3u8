@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="http://nonton.site:8888/xmltv.php?username=epg&password=epg" x-tvg-url="http://nonton.site:8888/xmltv.php?username=epg&password=epg" #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTM3U 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="NetTV.id" tvg-name="" tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal",NET https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal",Indosiar https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
