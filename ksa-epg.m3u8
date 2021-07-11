@@ -207,7 +207,7 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="FOXMoviesPremium.id" tvg-name="" tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FOX Movies
+#EXTINF:0 tvg-id="FOX Movies HD" tvg-name="" tvg-logo="http://kamiselaluada.com/img/foxmovies.png" group-title="Movies",FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
